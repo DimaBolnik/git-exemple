@@ -1,2 +1,1 @@
-# git-exemple
-пример работы с гитом
+ Hello Dima
